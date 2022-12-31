@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable-v24/bluecomponentdet.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable-v24/componentdet.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable-v24/custom_username_click.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable-v24/ic_email_click.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable-v24/ic_lock_click.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable-v24/ic_username_click.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable-v24/whitecomponentdet.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/custom_email_click.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/custom_lock_click.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/detbg.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/ic_baseline_assignment_ind_24.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/ic_delete.xml" value="0.1665" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/ic_keranjang.xml" value="0.124" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/drawable/tab_indicator.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/activity_form_data.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/activity_input.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/activity_loginact.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/activity_oopslogin.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/activity_profile.xml" value="0.14666666666666667" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/activity_tablayout_custom.xml" value="0.22" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/cart_activity.xml" value="0.14666666666666667" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/detail_shirt.xml" value="0.22" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/fragment_frag_hoodie.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/fragment_frag_jacket.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/fragment_frag_tshirt.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/item_order.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/item_tshirt.xml" value="0.22" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale - Copy/app/src/main/res/layout/register_act.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/drawable-v24/ic_email_click.xml" value="0.127" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/drawable-v24/ic_lock_click.xml" value="0.127" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/drawable/custom_email_click.xml" value="0.127" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/drawable/custom_lock_click.xml" value="0.127" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/drawable/ic_email.xml" value="0.127" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/drawable/ic_lock.xml" value="0.127" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/drawable/tab_indicator.xml" value="0.183" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/layout/activity_loginact.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/layout/activity_oopslogin.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/layout/activity_tablayout_custom.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/layout/detail_shirt.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/layout/fragment_frag_hoodie.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/layout/fragment_frag_jacket.xml" value="0.1" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/layout/fragment_frag_tshirt.xml" value="0.125" />
+        <entry key="..\:/Kuliah/SMT 3/Pemrograman Perangkat Bergerak/locale/app/src/main/res/layout/item_tshirt.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
